@@ -34,7 +34,8 @@ function TinderCarditem() {
         preventSwipe={['up', 'down']}
         onSwipe={onSwipe}       
       >
-        <div className={style.wrapper}>
+        <div className={style.wrapper} >
+            
             <div className={style.space}>
                 <div className={style.name}>
                     Sahitya
