@@ -12,7 +12,9 @@
     "hardhat": "^2.9.2",
     "next": "12.1.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.3.1",
+    "react-tinder-card": "^1.4.5"
   },
   "devDependencies": {
     "@nomiclabs/hardhat-ethers": "^2.0.5",
