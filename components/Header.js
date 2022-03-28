@@ -1,7 +1,7 @@
 import Image from 'next/image'
 import fire from '../assets/fire.png'
 import { useContext } from 'react'
-
+//
 
 const style = {
   wrapper: `h-24 py-11 text-white flex w-screen items-center px-16 justify-between`,
